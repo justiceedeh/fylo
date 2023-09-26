@@ -1,0 +1,65 @@
+
+
+
+
+
+.container{
+    display: flex;
+    .nav>a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+}
+.home{
+    display: flex;
+    align-items: center;
+}
+img{
+    width: 600px;
+}
+   h1{ 
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+p{
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.box{
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.both{
+    background-color: blue;
+    border: none;
+    color: white;
+}
+.first-img{
+     display: flex; */
+      align-items: center;
+}
+.man>img{
+width: 600px;
+align-content: center;
+padding-bottom: 30px;
+}
+.line{
+    border-bottom:  1px solid green;
+    width: 150px;
+    align-items: center;
+    margin: 35px;
+}
+.people{
+    display: flex;
+    align-items: center;
+   }
+.imags{
+    width: 500px;
+}
+
+.mannote{
+    display: flex;
+}    
